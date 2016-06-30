@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Aarhus group 14</string>
+    <string name="titleText">Weather: Aarhus</string>
+    <string name="weatherDes">Scattered Clouds</string>
+    <string name="time">40:40</string>
+    <string name="wind">74 m/s</string>
+    <string name="datetimeList">2014-04-05 kl. 5</string>
+    <string name="windList">75 m/s</string>
+    <string name="desList">Sunny</string>
+    <string name="tempList">7.9°C</string>
+</resources>
